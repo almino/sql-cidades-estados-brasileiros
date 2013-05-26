@@ -1394,7 +1394,7 @@ INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 
 INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1361, "Graça", "62365000");
 INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1362, "Granja", "62430000");
 INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1363, "Granjeiro", "63230000");
-INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1364, "Groairas", "62190000");
+INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1364, "Groaíras", "62190000");
 INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1365, "Guaiúba", "61890000");
 INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1366, "Guajiru", "62818000");
 INSERT INTO `tb_cidades` (`est_id`, `cid_id`, `cid_nome`, `cid_cep`) VALUES (6, 1367, "Guanacés", "62856000");
